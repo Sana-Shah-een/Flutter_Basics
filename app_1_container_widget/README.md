@@ -10,7 +10,7 @@ This is a simple Flutter app that shows how to use the **Container** widget. It 
 - **AppBar**: Customizes the top bar with text and color.
 - **Background Color**: Shows how to add a background color to the body.
 - **Centering Widgets**: Centers widgets on the screen.
-![App Screenshot](container_widget.PNG)  
+<img src="container_widget.PNG">  
 *This is a screenshot of the app demonstrating the usage of the Container widget, custom AppBar, and centered elements.*
 ## What I Learned
 
