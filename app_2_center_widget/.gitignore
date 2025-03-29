@@ -43,3 +43,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore everything
+*
+
+# Except the lib folder
+!lib/
+!lib/**
+
+# Except README.md
+!README.md
+
+# Ignore the .gitignore file itself
+.gitignore
