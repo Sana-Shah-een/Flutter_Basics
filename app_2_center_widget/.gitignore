@@ -56,3 +56,14 @@ app.*.map.json
 
 # Ignore the .gitignore file itself
 .gitignore
+android/
+ios/
+linux/
+macos/
+test/
+web/
+windows/
+.gitignore
+.metadata
+analysis-options.yaml
+pubspec.lock
