@@ -54,8 +54,7 @@ app.*.map.json
 # Except README.md
 !README.md
 
-# Ignore the .gitignore file itself
-.gitignore
+# Ignore unnecessary directories
 android/
 ios/
 linux/
@@ -63,7 +62,9 @@ macos/
 test/
 web/
 windows/
-.gitignore
+
+# Ignore configuration and metadata files
 .metadata
 analysis-options.yaml
 pubspec.lock
+
